@@ -1,0 +1,33 @@
+.background{
+    background-color:lightgray;
+    background-image: radial-gradient(circle at center, #fff 20%, #e0e5f5 80%);
+}
+.textstyle{
+    color: #333;
+    font-family: cursive;
+}
+.underline{
+    text-decoration: underline;
+}
+.header{
+    background-image: url("https://media.istockphoto.com/id/166082450/vector/multiple-images-of-a-man-doing-cartwheel.jpg?s=612x612&w=0&k=20&c=T5mQAQ3NbhHDwsQqQxC7xohQ_1PsQ-yJzhn4DWb20J8=");
+    background-size: cover;
+    background-color: white;
+    height: 345px;
+    margin: 20px;
+}
+.bold{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.none{
+    font-weight: 100;
+}
+.home{
+    padding: 10px;
+    text-decoration: none;
+    color: darkslateblue;
+    font-family: sans-serif;
+    font-weight: 600;
+    float: right;
+}
